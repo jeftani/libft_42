@@ -20,7 +20,7 @@ To use Libft in your projects, you need to compile the library into an archive f
 
 ### Cloning the Repository
 ```sh
-git clone https://github.com/yourusername/libft.git
+git clone git@github.com:jeftani/libft_42.git
 cd libft
 ```
 
@@ -57,14 +57,7 @@ Libft includes the implementation of various standard library functions, categor
 - `ft_itoa`    - Converts an integer to a string
 - `ft_strmapi` - Applies a function to each character in a string
 
-### Bonus - Linked List Functions
-- `ft_lstnew`   - Creates a new linked list node
-- `ft_lstadd_front` - Adds a node to the front of a linked list
-- `ft_lstadd_back`  - Adds a node to the end of a linked list
-- `ft_lstdelone` - Deletes a node from the list
-- `ft_lstclear`  - Deletes an entire linked list
-- `ft_lstiter`   - Iterates over a linked list and applies a function
-- `ft_lstmap`    - Creates a new linked list from an existing list
+   - Creates a new linked list from an existing list
 
 ## Compilation
 To compile the library, simply run:
